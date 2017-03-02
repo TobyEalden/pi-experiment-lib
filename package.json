@@ -2,7 +2,9 @@
   "name": "pi-experiment-lib",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "plugins/factory.js",
+  "format": "es6",
+  "registry": "jspm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
